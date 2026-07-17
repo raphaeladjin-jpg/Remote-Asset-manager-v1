@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Remote Staffing Agency"
+version = "1.0.0"
+id = "artifacts/remote-staffing-agency"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23523
+
+[services.development]
+run = "pnpm --filter @workspace/remote-staffing-agency run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/remote-staffing-agency", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/remote-staffing-agency/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23523"
+BASE_PATH = "/"

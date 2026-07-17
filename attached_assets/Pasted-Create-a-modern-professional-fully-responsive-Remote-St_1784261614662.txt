@@ -1,0 +1,192 @@
+Create a modern, professional, fully responsive Remote Staffing Agency website using HTML, CSS, and JavaScript. Generate all the code required for a complete website with a clean file structure, including index.html, style.css, and script.js.
+
+The website should represent a professional company that trains individuals for remote work and connects qualified graduates with international employers.
+
+Use a modern blue, white, and dark gray color scheme with smooth animations, rounded cards, hover effects, attractive buttons, icons, and a clean layout. The website must work perfectly on desktop, tablet, and mobile devices.
+
+Include the following sections:
+
+1. Navigation Bar
+
+* Company logo: Remote Staffing Agency
+* Menu links: Home, About, Courses, Registration, Course Fees, Learn & Work Abroad, Testimonials, FAQ, Contact
+* Mobile navigation menu
+
+2. Hero Section
+
+* Large professional background image showing people working remotely.
+* Headline: “Start Your Global Remote Career Today”
+* Supporting text explaining that the agency trains students with in-demand digital skills and helps them secure remote jobs with international companies.
+* Two call-to-action buttons: “Register Now” and “View Courses”
+
+3. About Us
+    Explain that Remote Staffing Agency is committed to helping students and professionals gain practical digital skills and secure remote employment with companies worldwide.
+
+Mission:
+To empower people with job-ready digital skills and connect them to global employment opportunities.
+
+Vision:
+To become Africa’s leading remote staffing and digital skills training organization.
+
+Core Values:
+
+* Professionalism
+* Integrity
+* Innovation
+* Excellence
+* Teamwork
+* Customer Success
+
+4. Services
+    Display service cards for:
+
+* Remote Job Placement
+* Virtual Assistant Training
+* Customer Support Training
+* Digital Marketing Training
+* Data Entry Training
+* Social Media Management
+* CV and Resume Writing
+* Interview Preparation
+* Career Coaching
+* International Job Matching
+
+5. Courses Section
+    Include cards describing:
+
+* Virtual Assistant
+* Customer Support
+* Digital Marketing
+* Data Entry
+* Social Media Management
+* Email Management
+* Microsoft Office
+* Google Workspace
+* Communication Skills
+* Interview Skills
+* Professional English
+* Freelancing Fundamentals
+
+Each course should include:
+
+* Course description
+* Duration
+* Certificate awarded
+* Learning outcomes
+
+6. Registration Section
+    Create a professional registration form containing:
+
+* Full Name
+* Date of Birth
+* Gender
+* Email Address
+* Phone Number
+* Country
+* City
+* Highest Education Level
+* Preferred Course
+* Employment Status
+* Why do you want to join?
+* Submit button
+
+Display a success message after submission using JavaScript.
+
+7. Course Fees
+    Display pricing cards for:
+    Basic Package
+    Professional Package
+    Premium Package
+
+Each package should list:
+
+* Price
+* Duration
+* Included courses
+* Career coaching
+* Certificate
+* Job assistance
+* Register button
+
+8. Learn and Work Abroad Program
+    Describe how students:
+
+* Receive professional training.
+* Build practical experience.
+* Receive mentorship.
+* Improve communication skills.
+* Prepare CVs.
+* Practice interviews.
+* Get connected with international employers.
+* Receive ongoing career support.
+
+Include a step-by-step timeline from registration to employment.
+
+9. Why Choose Us
+    Include:
+
+* Experienced instructors
+* Flexible online learning
+* Affordable fees
+* International opportunities
+* Career guidance
+* Practical projects
+* Industry certifications
+* Dedicated student support
+
+10. Testimonials
+    Include at least six realistic student success stories with names, countries, and positive feedback.
+11. Frequently Asked Questions
+    Create an accordion with questions about:
+
+* Registration
+* Course duration
+* Certificates
+* Payment
+* Remote jobs
+* Learn & Work Abroad
+* Technical requirements
+
+12. Contact Section
+    Include:
+
+* Address
+* Email
+* Phone number
+* WhatsApp button
+* Google Map placeholder
+* Contact form
+
+13. Footer
+    Include:
+
+* Quick Links
+* Courses
+* Services
+* Social media icons
+* Copyright notice
+* Privacy Policy
+* Terms and Conditions
+
+Additional Requirements:
+
+* Smooth scrolling navigation.
+* Scroll-to-top button.
+* Animated counters showing:
+    * Students Trained
+    * Courses Available
+    * Remote Jobs Secured
+    * Countries Served
+* Image gallery.
+* Professional icons using Font Awesome.
+* Attractive gradients and modern typography.
+* CSS animations and hover effects.
+* JavaScript form validation.
+* Responsive design using Flexbox and CSS Grid.
+* Clean, well-commented code.
+* SEO-friendly HTML.
+* Fast loading performance.
+* No external frameworks such as Bootstrap.
+* Use only HTML, CSS, and JavaScript.
+
+Generate the complete website with all files ready to run in Replit.
