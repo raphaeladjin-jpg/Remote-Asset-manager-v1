@@ -70,7 +70,4 @@ You can use the following credentials to test the different user roles on the li
 | **Admin Account** | `admin@remoteasset.com` | `Admin123!` |
 | **Standard User** | `user@remoteasset.com` | `User123!` |
 
-> **Note:** If you have registered specific test accounts on your live Replit app, replace `admin@remoteasset.com` and `user@remoteasset.com` with those exact account logins.
-
----
 com/raphaeladjin-jpg/Remote-Asset-manager-v1.git)
