@@ -59,4 +59,18 @@ Remote Asset Manager helps decentralized teams maintain clear visibility over th
 ### Installation & Local Setup
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/raphaeladjin-jpg/Remote-Asset-manager-v1.git](https://github.com/raphaeladjin-jpg/Remote-Asset-manager-v1.git)
+   git clone [https://github.com/raphaeladjin-jpg/Remote-Asset-manager-v1.git](https://github.---
+
+## 🔑 Demo Login Credentials
+
+You can use the following credentials to test the different user roles on the live application:
+
+| Role | Email / Username | Password |
+| :--- | :--- | :--- |
+| **Admin Account** | `admin@remoteasset.com` | `Admin123!` |
+| **Standard User** | `user@remoteasset.com` | `User123!` |
+
+> **Note:** If you have registered specific test accounts on your live Replit app, replace `admin@remoteasset.com` and `user@remoteasset.com` with those exact account logins.
+
+---
+com/raphaeladjin-jpg/Remote-Asset-manager-v1.git)
